@@ -1,4 +1,4 @@
-module github.com/google/go-pipeline
+module github.com/goalm/go-pipeline
 
 go 1.20
 
